@@ -1,0 +1,22 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "vite build",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "typings": "lib/index.d.ts",
+  "dependencies": {
+    
+  }
+}
